@@ -1,0 +1,152 @@
+/**
+  Theme Name: Basic Theme
+  Version: 1
+  Author: Trevor
+*/
+
+.black {
+	background-color: black;
+}
+
+.round {
+	border-radius: 26px;
+}
+
+.nav-pills li.active a{
+	background-color: #CC9966;
+	color: black;
+}
+
+.white {
+	background-color: white;
+}
+
+.down3 {
+	margin-top: 12px;
+	margin-bottom: 6px;
+}
+
+.down4 {
+	margin-top: 18px;
+	margin-bottom: 9px;
+}
+
+.centerlogo {
+	margin-top: 6px;
+}
+
+.footer {
+	text-align: center;
+	color: white;
+	padding-top: 8px;
+}
+
+.fullwidth {
+	width: 100%;
+}
+
+.nav-pills li.active a:hover { 
+	background-color: #CC3300;
+	color: white;
+}
+
+.border1 {
+	border-bottom: 3px solid red;
+}
+
+.border2 {
+	border-top: 3px solid red;
+}
+
+.nav-pills li a:focus { 
+	background-color: #CC3300;
+	color: black;
+}
+
+.space {
+	margin-right: 3px;
+	margin-left: 3px;
+}
+
+.nav-pills li a:hover { 
+	background-color: #CC3300;
+	color: white;
+}
+
+.nav-pills li a { 
+	background-color: #CC9933;
+	color: black;
+}
+
+.uppy2 {
+	margin-top:-3px;
+	margin-bottom: 9px;
+	background-color: #CC9933;
+	margin-right: auto;
+	margin-left: auto; 
+}
+
+.fonty {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.center3 {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fonty2 {
+	font-size: 15px;
+}
+
+.bordermail {
+	border: 3px solid red;
+}
+
+.mailspace {
+	margin-top: 6px;
+	margin-bottom: 12px;
+}
+
+.whitetext {
+	color: white;
+}
+
+.down1 {
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+.btn-primary.round2 {
+	background-color: #CC9933;
+	color: white;
+	border: 0px;
+	border-radius: 0px;
+}
+
+.btn-primary.round2:hover {
+	border: 0px;
+	border-radius: 0px;
+}
+
+.btn-primary:hover {
+	background-color: #CC3300;
+	border: 0px;
+}
+
+.btn-primary.round {
+	border: 0px;
+	border-radius: 15px;
+	border: 2px;
+	color: white;
+	background-color: #CC9933;
+}
+
+.btn-primary:hover {
+	border: 0px;
+	border-radius: 15px;
+	border: 2px;
+	color: white;
+	background-color: #CC3300;
+}
